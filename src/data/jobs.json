@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "jobName": "UI/UX дизайнер",
+    "description": "Отдел разработки мобильного приложения",
+    "status": "В приоритете",
+    "statusJob": "new",
+    "people": 3,
+    "documents": 255,
+    "recruiterName": "Алексей Щербаков"
+  },
+  {
+    "id": 2,
+    "jobName": "Маркетолог",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "new",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Floyd Miles"
+  },
+  {
+    "id": 3,
+    "jobName": "Маркетолог",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "new",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Floyd Miles"
+  },
+  {
+    "id": 4,
+    "jobName": "Менеджер по продажам",
+    "description": "Отдел продаж",
+    "status": "В приоритете",
+    "statusJob": "new",
+    "people": 3,
+    "documents": 25,
+    "recruiterName": "Theresa Webb"
+  },
+  {
+    "id": 5,
+    "jobName": "UI/UX дизайнер",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "current",
+    "people": 3,
+    "documents": 182,
+    "recruiterName": "Vanessa Johnson"
+  },
+  {
+    "id": 6,
+    "jobName": "PHP Developer",
+    "description": "Housekeepers",
+    "status": "В приоритете",
+    "statusJob": "new",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Kristin Watson"
+  },
+  {
+    "id": 7,
+    "jobName": "Freshers",
+    "description": "Finance",
+    "status": "Второстепенная",
+    "statusJob": "new",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Jacob Jones"
+  },
+  {
+    "id": 8,
+    "jobName": "Joomla Developer",
+    "description": "Accounting",
+    "status": "Второстепенная",
+    "statusJob": "new",
+    "people": 3,
+    "documents": 182,
+    "recruiterName": "Cameron Williamson"
+  },
+  {
+    "id": 9,
+    "jobName": "UI UX Designer",
+    "description": "Management",
+    "status": "В приоритете",
+    "statusJob": "new",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Wade Warren"
+  },
+  {
+    "id": 10,
+    "jobName": "Python Developer",
+    "description": "Laundry",
+    "status": "В приоритете",
+    "statusJob": "archived",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Devon Lane"
+  },
+  {
+    "id": 11,
+    "jobName": "Freshers",
+    "description": "Finance",
+    "status": "Второстепенная",
+    "statusJob": "archived",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Jacob Jones"
+  },
+  {
+    "id": 12,
+    "jobName": "UX Architect",
+    "description": "Housekeeping management",
+    "status": "В приоритете",
+    "statusJob": "archived",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Guy Hawkins"
+  },
+  {
+    "id": 13,
+    "jobName": "Human Resource",
+    "description": "Отдел маркетинга",
+    "status": "Срочная заявка",
+    "statusJob": "archived",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Annette Black"
+  },
+  {
+    "id": 14,
+    "jobName": "Python Developer",
+    "description": "Restaurant Management",
+    "status": "Срочная заявка",
+    "statusJob": "archived",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Esther Howard"
+  },
+  {
+    "id": 15,
+    "jobName": "Маркетолог",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "online",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Floyd Miles"
+  },
+  {
+    "id": 16,
+    "jobName": "Менеджер по продажам",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "online",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Алексей Щербаков"
+  },
+  {
+    "id": 17,
+    "jobName": "Менеджер по продажам",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "online",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Алексей Щербаков"
+  },
+  {
+    "id": 18,
+    "jobName": "Менеджер по продажам",
+    "description": "Отдел маркетинга",
+    "status": "В приоритете",
+    "statusJob": "online",
+    "people": 2,
+    "documents": 182,
+    "recruiterName": "Алексей Щербаков"
+  }
+]

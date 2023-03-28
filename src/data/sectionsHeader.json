@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "header": "Новые",
+    "status": "new"
+  },
+  {
+    "id": 2,
+    "header": "Текущие",
+    "status": "current"
+  },
+  {
+    "id": 3,
+    "header": "Закрытые",
+    "status": "closed"
+  },
+  {
+    "id": 4,
+    "header": "Архив",
+    "status": "archived"
+  },
+  {
+    "id": 5,
+    "header": "Удаленные",
+    "status": "online"
+  },
+  {
+    "id": 5,
+    "header": "Удаленные",
+    "status": "online"
+  }
+]
